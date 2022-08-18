@@ -1,0 +1,20 @@
+.Pages{
+   
+    padding: 0 7%;
+   
+    margin: 0;
+    max-width: 100%;
+    background-size: cover;
+    height: 100vh;
+   
+}
+.Pages h1{
+    text-align: center;
+    color: red;
+}
+.Pages h3{
+    text-align: center;
+    color:chocolate;
+    padding: 150px 0;
+    border: none;
+}

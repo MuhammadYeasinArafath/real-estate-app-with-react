@@ -1,0 +1,42 @@
+.Footer{
+    
+    padding: 0 7%;
+    margin: 0;
+    max-width: 100%;
+    color:white;
+    background-color: black;
+    background-size: cover;
+    height: 100vh;
+    
+}
+
+
+/*  don't know why this hover part is not working.         */
+
+.Footer .designf .well h5 a::before{
+color: aliceblue;
+}
+.Footer .designf .well h5 a:active{
+    color:red;
+}
+.Footer .designf .well h5 a::after{
+    color: blue;
+}
+
+.Footer .designf .fotcon h5 a::before{
+    color: aliceblue;
+    }
+.Footer .designf .fotcon h5 a:active{
+        color:red;
+    }
+.Footer .designf .fotcon h5 a::after{
+        color: blue;
+    }
+
+
+
+
+.designf{
+    display: grid;
+    grid-template-columns: auto auto;
+}

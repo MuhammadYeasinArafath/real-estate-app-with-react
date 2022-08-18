@@ -1,0 +1,41 @@
+.Homepage h1{
+    margin-top: 5px;
+    text-align: center;
+    color:gold; 
+    font-weight: 1000rem;  
+}
+
+.Homepage h2{
+    text-align: center;
+    color: aliceblue; 
+    padding: 70px 0;
+    border: none;
+}
+
+.Homepage h2 span{
+    color:crimson;
+    font-weight: 500rem;  
+}
+
+.Homepage h3{
+    text-align: center;
+    color: yellow;
+}
+
+.Homepage{
+  
+    padding: 0 7%;
+    margin: 0;
+    max-width: 100%;
+    background-image: url(./back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+
+
+
+
+
+
